@@ -16,4 +16,4 @@ datanucleus.log
 /bin/
 /bin/
 *.log
-event-sourcing/Journal.json
+.vscode
